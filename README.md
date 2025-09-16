@@ -24,5 +24,5 @@ Jugador izquierda w(arriba) s (abajo),jugador derecha flecha arriba (↑),flecha
 - Incluye screenshots mostrando el juego en acción
 
 ![Pantalla del juego](images/imagen_1.png)
-![Pantalla del juego](images/iamgen_2.png)
+![Pantalla del juego](images/imagen_2.png)
 
