@@ -3,7 +3,7 @@
 ## Descripción
 Juego arcade Pong implementado en Python con **Pygame**.  
 Cada jugador controla una paleta con diferentes teclas y compite para mantener la pelota en juego.
-Jugador izquierda w(arriba) s (abajo), jugador derecha con las flechas
+Jugador izquierda w(arriba) s (abajo),jugador derecha flecha arriba (↑),flecha abajo (↓)
 
 
 ## Requisitos
